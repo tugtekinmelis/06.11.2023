@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\bin\Debug\uygulama_6.11.2023.exe.config
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\bin\Debug\uygulama_6.11.2023.exe
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\bin\Debug\uygulama_6.11.2023.pdb
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\obj\Debug\uygulama_6.11.2023.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\obj\Debug\uygulama_6.11.2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\obj\Debug\uygulama_6._11._2023.Form1.resources
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\obj\Debug\uygulama_6._11._2023.Properties.Resources.resources
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\obj\Debug\uygulama_6.11.2023.csproj.GenerateResource.cache
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\obj\Debug\uygulama_6.11.2023.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\obj\Debug\uygulama_6.11.2023.exe
+C:\Users\User\source\repos\uygulama_6.11.2023\uygulama_6.11.2023\obj\Debug\uygulama_6.11.2023.pdb
